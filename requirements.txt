@@ -6,3 +6,17 @@ matplotlib
 scikit-learn
 folium
 streamlit-folium
+streamlit
+streamlit-option-menu
+streamlit-pandas-profiling
+streamlit-folium
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+ydata-profiling
+scikit-learn
+imbalanced-learn
+folium
+wordcloud
