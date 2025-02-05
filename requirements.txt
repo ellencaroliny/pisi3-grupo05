@@ -20,3 +20,4 @@ scikit-learn
 imbalanced-learn
 folium
 wordcloud
+setuptools
